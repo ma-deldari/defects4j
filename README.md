@@ -108,8 +108,9 @@ Steps to set up Defects4J
 
 3. Add Defects4J's executables to your PATH:
     - `export PATH=$PATH:"path2defects4j"/framework/bin`
+    Example: "path2defects4j" like "/user/yourComputerUserName/desktop/defects4j/freamwork/bin";
 
-4. Check installation:
+5. Check installation:
     - `defects4j info -p Lang`
 
 On some platforms such as Windows, you might need to use `perl "fullpath"\defects4j`
